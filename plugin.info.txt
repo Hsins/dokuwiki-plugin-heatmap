@@ -1,0 +1,7 @@
+base   heatmap
+author H.-H. PENG (Hsins)
+email  hsinspeng@gmail.com
+date   2024-10-30
+name   Posts Heatmap
+desc   Showing heatmap of yearly pages (posts) based on created date.
+url    https://www.dokuwiki.org/plugin:posts-heatmap
